@@ -5,7 +5,7 @@ task. Key factors which may affect the house price include area of the property,
 made to construct a predictive model for evaluating the price based on the factors that affect the price. Modelling study apply
 some supervised learning techniques. Built this concept as real time application useful for real estate business and also buyer and sellers.
 
-Keywords: Supervised Learning
-          Regression Task
+Keywords: Supervised Learning,
+          Regression Task,
           Batch Learning
 
